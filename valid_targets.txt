@@ -1,0 +1,18 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
+./build.js
+./tests/run.js
+./index.js
+./gulpfile.js
+./valid_targets.txt
+./src/MessageHub/messagehub.js
+./src/MessageHub/index.js
+./src/MessageHub/connector/abstract.js
+./src/MessageHub/connector/holder.js
+./src/MessageHub/connector/http/xmlrpcv1.js
+./src/MessageHub/connector/websocket.js
+./src/MessageHub/connector/http.js
